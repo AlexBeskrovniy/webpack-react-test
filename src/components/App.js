@@ -4,7 +4,7 @@ const App = () => {
     return (
         <div className="box">
             <h2>
-                Hello Webpack!            
+                Hello Webpack!          
             </h2>
         </div>
     );

@@ -37,5 +37,10 @@ module.exports = {
             template: './src/index.html',
 
         })
-    ]
+    ],
+
+    devServer: {
+        open: true,
+        hot: true
+    }
 }
